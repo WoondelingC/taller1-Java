@@ -6,4 +6,4 @@
 ### BankAccount 
 ### Check y la clase Taller que contiene mi main
 
-Se puede creadas y ejecutadas desde el entorno de desarrollo Netbeans.
+Creadas y ejecutadas desde el entorno de desarrollo Netbeans.
